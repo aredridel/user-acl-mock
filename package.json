@@ -32,6 +32,7 @@
     "joi": "^6.6.1",
     "morgan": "~1.5.3",
     "nano": "^6.1.5",
+    "npm-registry-couchapp": "^2.6.11",
     "path": "^0.11.14",
     "serve-favicon": "~2.2.1",
     "util": "^0.10.3"
